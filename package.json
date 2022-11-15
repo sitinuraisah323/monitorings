@@ -1,0 +1,25 @@
+{
+  "name": "emaskita",
+  "version": "1.0.0",
+  "description": "website emaskita.id",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/onnur/emaskitaid.git"
+  },
+  "author": "onur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/onnur/emaskitaid/issues"
+  },
+  "homepage": "https://gitlab.com/onnur/emaskitaid#readme",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
